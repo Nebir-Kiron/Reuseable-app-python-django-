@@ -1,0 +1,5 @@
+include LICENSE
+include README.rst
+recursive-include dismin/static *
+recursive-include dismin/templates *
+recursive-include docs *
